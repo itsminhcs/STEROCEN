@@ -9,7 +9,7 @@ import pandas as pd
 import networkx as netx
 from itertools import product
 
-path_to_env = '../Environments/offloading-net/offloading_net/envs/'
+path_to_env = '/kaggle/working/Environments/offloading-net/offloading_net/envs/'
 
 ### Parameters for computation offloading in a network environment
 
